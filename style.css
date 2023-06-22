@@ -136,6 +136,7 @@ h1 {
     font-weight: 900;
     text-transform: uppercase;
     background: -webkit-linear-gradient(rgba(51, 168, 219, 1), rgba(20, 114, 183, 1));
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     
@@ -155,6 +156,7 @@ button {
     padding: 20px 40px;
     text-transform: uppercase;
     background: -webkit-linear-gradient(rgba(51, 168, 219, 1), rgba(20, 114, 183, 1));
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     letter-spacing: 2px;
